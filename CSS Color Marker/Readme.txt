@@ -1,0 +1,1 @@
+It's a straightforward project designed to explore the art of utilizing colors in CSS for creating visually appealing markers.
